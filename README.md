@@ -6,4 +6,4 @@
 
 ## Bioconductor
 
-- [Slides](https://github.com/sjessa/resources/blob/master/bioconductor/monBUG.pdf) from my March 2018 MonBUG talk on Bioconductor package development
+- [Slides](https://github.com/sjessa/resources/blob/master/bioconductor/monBUG.pdf) from my March 2018 MonBUG talk on Bioconductor package development ([download for clickable links](https://github.com/sjessa/resources/raw/master/bioconductor/monBUG.pdf))
